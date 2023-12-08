@@ -13,15 +13,6 @@
 </div>
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#setup">Installation</a></li>
-  </ol>
-</details>
-
-
 <!-- GETTING STARTED -->
 ### Setup
 1. Clone the repo
